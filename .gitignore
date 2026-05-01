@@ -1,1 +1,6 @@
 .env
+assets/*
+output/*
+templates/*
+venv/*
+__pycache__/*
